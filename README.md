@@ -1,4 +1,4 @@
-I am Front-end, React developer with passion and curiosity for creating and building things.
+# I am Front-end, React developer with passion and curiosity for creating and building things.
 
 Eager to help people with solutions not only working but also usable and good-looking.
 
@@ -7,7 +7,6 @@ Eager to help people with solutions not only working but also usable and good-lo
 I focus on developing solutions to complex problems using React and Typescript but I also follow closely Reason and Rust enviroments.
 I want to learn AWS in order to become a Full Stack Serverless Developer.
 
----
 
 ### Html
 
