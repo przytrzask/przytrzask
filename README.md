@@ -1,5 +1,5 @@
-# I am Front-end, React developer with passion and curiosity for creating and building things.
-
+# My name is Thomas
+and I am Front-end, React developer with passion and curiosity for creating and building things.
 Eager to help people with solutions not only working but also usable and good-looking.
 
 ## Skills and interests
