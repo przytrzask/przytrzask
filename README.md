@@ -2,7 +2,7 @@
 
 **Product engineer.** I ship full stack features end to end in TypeScript, React, Node.js and Ruby on Rails, and I build the AI tooling that helps whole teams ship them.
 
-- 🏠 **Housecall Pro**, Senior Software Engineer: led embedded business insurance for every customer running payroll (partner integration and pay-as-you-go pricing, launched in about 3 months), and run the team's AI-assisted SDLC: shared agent skills, ADR-based team memory, and E2E agents that verify every change before merge.
+- 🏠 **Work**, Senior Software Engineer: led embedded business insurance for every customer running payroll (partner integration and pay-as-you-go pricing, launched in about 3 months), and run the team's AI-assisted SDLC: shared agent skills, ADR-based team memory, and E2E agents that verify every change before merge.
 - 🧪 **Open source:** 2 merged features in [e2e](https://github.com/e2e-inc/e2e), the e2e testing framework for web and mobile ([`test.slow()`](https://github.com/e2e-inc/e2e/pull/1982), [`tap({ count })`](https://github.com/e2e-inc/e2e/pull/1979)).
 - 🤖 **Autonomous delivery:** ticket-to-merge pipelines where agents classify a ticket, research, plan and implement, verify end to end, and decide whether a human needs to review.
 
